@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KamelenRaceOefEgon</string>
+    <string name="str_tv_kameel1">Magic Mike</string>
+    <string name="str_tv_kameel2">Sepperay</string>
+    <string name="str_tv_kameel3">Leonair</string>
+    <string name="str_btn_start_race">Drink!</string>
+    <string name="str_tv_winnaar" />
+</resources>
